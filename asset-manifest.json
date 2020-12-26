@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ArjunResume2020/static/css/main.078cc6de.chunk.css",
+    "main.js": "/ArjunResume2020/static/js/main.1a46f653.chunk.js",
+    "main.js.map": "/ArjunResume2020/static/js/main.1a46f653.chunk.js.map",
+    "runtime-main.js": "/ArjunResume2020/static/js/runtime-main.bad388f3.js",
+    "runtime-main.js.map": "/ArjunResume2020/static/js/runtime-main.bad388f3.js.map",
+    "static/js/2.84b05811.chunk.js": "/ArjunResume2020/static/js/2.84b05811.chunk.js",
+    "static/js/2.84b05811.chunk.js.map": "/ArjunResume2020/static/js/2.84b05811.chunk.js.map",
+    "static/js/3.fe1216ce.chunk.js": "/ArjunResume2020/static/js/3.fe1216ce.chunk.js",
+    "static/js/3.fe1216ce.chunk.js.map": "/ArjunResume2020/static/js/3.fe1216ce.chunk.js.map",
+    "index.html": "/ArjunResume2020/index.html",
+    "static/css/main.078cc6de.chunk.css.map": "/ArjunResume2020/static/css/main.078cc6de.chunk.css.map",
+    "static/js/2.84b05811.chunk.js.LICENSE.txt": "/ArjunResume2020/static/js/2.84b05811.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bad388f3.js",
+    "static/js/2.84b05811.chunk.js",
+    "static/css/main.078cc6de.chunk.css",
+    "static/js/main.1a46f653.chunk.js"
+  ]
+}
