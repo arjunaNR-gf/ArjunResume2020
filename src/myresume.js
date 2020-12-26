@@ -105,7 +105,7 @@ useEffect(()=>
     </div>
  
     <div className="my-clg-ex">
-        <p>Exspirience</p>
+        <p style={{backgroundColor:"purple",color:"white",padding:"1px"}}>Exspirience</p>
         <p>My name is Arjuna N R ,
             I completed my post graduation in MCA ,
             i am good in proraming language like java ,
@@ -115,7 +115,7 @@ useEffect(()=>
              html,css,javascrept,React js,c#,Sql</p>
     </div>
    
-    <div className="my-clg-ex"><p>Education</p>
+    <div className="my-clg-ex"><p style={{backgroundColor:"purple",color:"white",padding:"1px"}}>Education</p>
     <table border="1" style={{width:"90%",borderCollapse:"collapse",border:"1px;",marginLeft:"2%"}}>
         <tr style={{width:"10px",height:"auto",padding:"2px"}}>
             <th>catagery</th>
@@ -172,7 +172,7 @@ useEffect(()=>
                 </div>
  
     <div className="my-clg-exy">
-       websitecreater:
+     <p style={{backgroundColor:"purple",color:"white",padding:"1px"}}>  websitecreater:<p>
                       <p>Arjuna N R</p>
                       <p>ph:9448427178</p>
                       <p>email:arjun042896@gmail.com</p>
